@@ -1,1 +1,2 @@
 # pizza_sales_SQL
+To analyze pizza sales using SQL, you can query your sales database to extract data such as the total number of pizzas sold, revenue generated, and sales trends over time. Use aggregate functions like SUM() to calculate total sales and COUNT() for the number of transactions. Additionally, grouping and filtering data by attributes like date, type of pizza, and customer demographics can provide deeper insights into sales performance.
